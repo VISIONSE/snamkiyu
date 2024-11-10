@@ -1,0 +1,14 @@
+{
+    "documentation/bypass/": {
+        "title": "BYPASS",
+        "text": "BYPASS  FIRST TIME USING : OPEN LAODER LOGIN PRESS BYPASS OPEN GAME  ERROR POPUP (its normal) RETART GAME BYPASS DONE"
+    },
+    "documentation/val-nova/": {
+        "title": "VAL NOVA",
+        "text": "VAL NOVA METHOD: OPEN GAME MAKE SURE YOU ARE IN LOBBY MAKE SURE CORE ISOLATION IS TURNED OFF (VIRTUALIZATION OFF) OPEN LOADER LOGIN PRESS INJECT ENJOY!!"
+    },
+    "documentation/links/": {
+        "title": "LINKS",
+        "text": "ALL LINKS AND SUPPORT DISCORD WEBSITE"
+    }
+}

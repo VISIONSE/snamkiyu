@@ -1,0 +1,933 @@
+{
+    "version": "2.3.9",
+    "fields": [
+        "title",
+        "text"
+    ],
+    "fieldVectors": [
+        [
+            "title/documentation/bypass/",
+            [
+                0,
+                0.524
+            ]
+        ],
+        [
+            "text/documentation/bypass/",
+            [
+                0,
+                0.715,
+                1,
+                0.923,
+                2,
+                0.923,
+                3,
+                0.923,
+                4,
+                0.923,
+                5,
+                0.619,
+                6,
+                0.923,
+                7,
+                0.442,
+                8,
+                0.442,
+                9,
+                0.619,
+                10,
+                0.923,
+                11,
+                0.923,
+                12,
+                0.923,
+                13,
+                0.923,
+                14,
+                0.923,
+                15,
+                0.923
+            ]
+        ],
+        [
+            "title/documentation/val-nova/",
+            [
+                16,
+                0.39,
+                17,
+                0.39
+            ]
+        ],
+        [
+            "text/documentation/val-nova/",
+            [
+                5,
+                0.567,
+                7,
+                0.39,
+                8,
+                0.39,
+                9,
+                0.39,
+                16,
+                0.39,
+                17,
+                0.39,
+                18,
+                0.814,
+                19,
+                1.182,
+                20,
+                1.182,
+                21,
+                0.814,
+                22,
+                0.814,
+                23,
+                0.814,
+                24,
+                0.814,
+                25,
+                0.814,
+                26,
+                0.814,
+                27,
+                0.814,
+                28,
+                0.814,
+                29,
+                0.814,
+                30,
+                0.814,
+                31,
+                0.814,
+                32,
+                0.814,
+                33,
+                0.814,
+                34,
+                0.814
+            ]
+        ],
+        [
+            "title/documentation/links/",
+            [
+                35,
+                0.524
+            ]
+        ],
+        [
+            "text/documentation/links/",
+            [
+                35,
+                0.642,
+                36,
+                1.339,
+                37,
+                1.339,
+                38,
+                1.339,
+                39,
+                1.339,
+                40,
+                1.339
+            ]
+        ]
+    ],
+    "invertedIndex": [
+        [
+            "(its",
+            {
+                "_index": 12,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                81,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "(virtualization",
+            {
+                "_index": 30,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                93,
+                                15
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            ":",
+            {
+                "_index": 4,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                25,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "all",
+            {
+                "_index": 36,
+                "title": {},
+                "text": {
+                    "documentation/links/": {
+                        "position": [
+                            [
+                                0,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "and",
+            {
+                "_index": 37,
+                "title": {},
+                "text": {
+                    "documentation/links/": {
+                        "position": [
+                            [
+                                10,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "are",
+            {
+                "_index": 22,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                41,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "bypass",
+            {
+                "_index": 0,
+                "title": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                0,
+                                6
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                0,
+                                6
+                            ],
+                            [
+                                51,
+                                6
+                            ],
+                            [
+                                106,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "core",
+            {
+                "_index": 25,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                64,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "discord",
+            {
+                "_index": 39,
+                "title": {},
+                "text": {
+                    "documentation/links/": {
+                        "position": [
+                            [
+                                22,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "done",
+            {
+                "_index": 15,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                113,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "enjoy!!",
+            {
+                "_index": 34,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                145,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "error",
+            {
+                "_index": 10,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                69,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "first",
+            {
+                "_index": 1,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                8,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "game",
+            {
+                "_index": 9,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                63,
+                                4
+                            ],
+                            [
+                                101,
+                                4
+                            ]
+                        ]
+                    },
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                22,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "in",
+            {
+                "_index": 23,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                45,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "inject",
+            {
+                "_index": 33,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                138,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "is",
+            {
+                "_index": 27,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                79,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "isolation",
+            {
+                "_index": 26,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                69,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "laoder",
+            {
+                "_index": 6,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                32,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "links",
+            {
+                "_index": 35,
+                "title": {
+                    "documentation/links/": {
+                        "position": [
+                            [
+                                0,
+                                5
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "documentation/links/": {
+                        "position": [
+                            [
+                                4,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "loader",
+            {
+                "_index": 32,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                119,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "lobby",
+            {
+                "_index": 24,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                48,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "login",
+            {
+                "_index": 7,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                39,
+                                5
+                            ]
+                        ]
+                    },
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                126,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "make",
+            {
+                "_index": 19,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                27,
+                                4
+                            ],
+                            [
+                                54,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "method:",
+            {
+                "_index": 18,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                9,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "normal)",
+            {
+                "_index": 13,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                86,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "nova",
+            {
+                "_index": 17,
+                "title": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                4,
+                                4
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                4,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "off",
+            {
+                "_index": 29,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                89,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "off)",
+            {
+                "_index": 31,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                109,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "open",
+            {
+                "_index": 5,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                27,
+                                4
+                            ],
+                            [
+                                58,
+                                4
+                            ]
+                        ]
+                    },
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                17,
+                                4
+                            ],
+                            [
+                                114,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "popup",
+            {
+                "_index": 11,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                75,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "press",
+            {
+                "_index": 8,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                45,
+                                5
+                            ]
+                        ]
+                    },
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                132,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "retart",
+            {
+                "_index": 14,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                94,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "support",
+            {
+                "_index": 38,
+                "title": {},
+                "text": {
+                    "documentation/links/": {
+                        "position": [
+                            [
+                                14,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "sure",
+            {
+                "_index": 20,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                32,
+                                4
+                            ],
+                            [
+                                59,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "time",
+            {
+                "_index": 2,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                14,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "turned",
+            {
+                "_index": 28,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                82,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "using",
+            {
+                "_index": 3,
+                "title": {},
+                "text": {
+                    "documentation/bypass/": {
+                        "position": [
+                            [
+                                19,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "val",
+            {
+                "_index": 16,
+                "title": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                0,
+                                3
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                0,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "website",
+            {
+                "_index": 40,
+                "title": {},
+                "text": {
+                    "documentation/links/": {
+                        "position": [
+                            [
+                                30,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "you",
+            {
+                "_index": 21,
+                "title": {},
+                "text": {
+                    "documentation/val-nova/": {
+                        "position": [
+                            [
+                                37,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ]
+    ],
+    "pipeline": []
+}
